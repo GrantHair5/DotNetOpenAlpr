@@ -9,7 +9,7 @@ namespace OpenALPR.Console
         {
             if (args.Length != 1)
             {
-                System.Console.WriteLine("Usage: OpenALPR.Console.exe imagePath");
+                System.Console.WriteLine("Please supply image path - Usage: OpenALPR.Console.exe imagePath");
                 return;
             }
 
