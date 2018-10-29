@@ -1,2 +1,2 @@
 # DotNetOpenAlpr
-.NET wrapper for OpenALPR based off of https://github.com/igorkulman/OpenALPR.Lib with some enhancements and further examples 
+.NET wrapper for OpenALPR based off of https://github.com/igorkulman/OpenALPR.Lib with some enhancements 
